@@ -25,10 +25,13 @@ jobs:
         with:
           python-version: '3.12'
       - run: python -m unittest discover -s tests
-      - run: python generate.py
+      - name: Download official release notes
+        run: curl --fail --show-error --silent --location --max-time 60 https://help.openai.com/en/articles/6825453-chatgpt-release-notes --output source.html
+      - run: python generate.py --input source.html
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: public
       - uses: actions/deploy-pages@v4
         id: deployment
+
