@@ -1,0 +1,1342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>ChatGPT Release Notes (unofficial RSS)</title>
+    <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+    <description>Updates from the official ChatGPT release notes. Unofficial RSS, refreshed every six hours.</description>
+    <language>en</language>
+    <ttl>360</ttl>
+    <atom:link href="https://thomassaouma.github.io/chatgpt-release-notes-rss/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GPT-6.1 Terra</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>GPT-6.1 Terra is rolling out in ChatGPT Work and Codex. It supports a range of tasks, including visual reasoning, computer use, and writing.
+
+The rollout includes Plus, Pro, Business, Enterprise, and Edu plans. As it reaches your account, you can use Terra in the Work and Codex experiences available with your plan, region, and workspace settings.
+
+Select GPT-6.1 Terra from the model list. Your plan’s overall usage limits are unchanged. Note that some Plus and Pro users may see GPT-6.1 Terra at Medium instead of GPT-6.1 Sol at Light in the default Power presets in Work. Standard and Fast modes are supported where available.
+
+Terra does not support UAE inference residency; this restriction is based on where inference runs, not your location.
+
+For help using the model, see: ChatGPT Work and Codex. For current usage estimates, see: Pricing.</description>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:7ce33f9f39672b1e460a92b35113fc0ce24b3f333958ec708dcb2e7b226adeca</guid>
+    </item>
+    <item>
+      <title>MoMo payments in Vietnam</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>You can now use MoMo to pay for ChatGPT Go, Plus, and Pro subscriptions purchased on chatgpt.com in Vietnam.
+
+Subscriptions purchased through the iOS or Android app continue to be managed by the Apple App Store or Google Play. For supported currencies and payment methods, see: Multi-currency billing.</description>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:e048a8381d619506971bf1107027ad5033d0a53dd4ab6c7fb1d3d85e4c7d07c2</guid>
+    </item>
+    <item>
+      <title>Introducing locked chats</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Locked chats let you keep selected conversations in your account while hiding them from regular chat history, pinned chats, and search. Open them with your 4-digit account PIN or supported device authentication. Your retention and model-improvement settings stay unchanged.
+
+Locked chats are rolling out gradually to Free, Go, Plus, and Pro users on the web, in the iOS and Android apps, and in the new ChatGPT desktop app for macOS and Windows. To lock a chat, open a chat’s more options menu (•••) and select Lock chat.
+
+Learn more about locked chats.</description>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:92fc029804af5c6c1a52efc4c3799303139494fae2da6048a3b9c6e5f827d73c</guid>
+    </item>
+    <item>
+      <title>Create and collaborate on slides in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>ChatGPT Slides lets you create presentations and keep working on them with your team in Space. Start from a conversation, files, or an outline, or share an example deck to guide the style and layout.
+
+Create and refine. Edit text, images, shapes, and charts directly, or ask ChatGPT to make changes. Generate custom images or add your own.
+
+
+
+Work together. Invite teammates to edit the same deck in real time and leave shared comments.
+
+
+
+Present or export. Present directly from ChatGPT. On the web, export to PowerPoint, PDF, or Google Slides. In the desktop app, open your deck in PowerPoint or Keynote when those apps are installed.
+
+Slides is rolling out to eligible Pro, Business, and Enterprise users with Space access on the web and in the desktop app. To get started, ask ChatGPT in Work to create a presentation in Space.</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:462fc9dc786b5feb8f49045a87a0e7ea361a13aca81f7282c2194fd5192fb6c6</guid>
+    </item>
+    <item>
+      <title>Updates to GPT-6 Pro model in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>GPT-6 Pro in the chat tab now offers:
+
+Faster responses
+
+
+
+Improved use of plugins and tools to carry out tasks.
+
+
+
+Multiple agents that can work on different parts of a task in parallel. You can follow their progress in the conversation and open completed tasks to see what each agent did.
+
+This update is rolling out to eligible Pro users in ChatGPT. Availability in managed workspaces depends on workspace settings and rollout eligibility.</description>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:cd39213492613c63305dfe3184e4aa2eb3cfd64919bf93992a5fae84e1b46282</guid>
+    </item>
+    <item>
+      <title>GPT-Live-1.1 and new voices in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re rolling out GPT-Live-1.1 and GPT-Live-1.1 Quip, a mini version of the model, in ChatGPT Voice, with more natural accents across languages. Live also uses a wider range of short phrases to let you know when it’s searching.
+
+New Live voices include options for French, German, Hindi, Japanese, Korean, and Mexican Spanish, plus Bubbie in English. The voices you see may vary by region and account.
+
+To choose a voice, open Settings &gt; Voice, then select Voice.
+
+For more information, see: ChatGPT Voice.</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:f8505ecf6b44ce87cfaa45bfa7bea6a7cd9e84eb77591ced5a6c8c2dfadbc08c</guid>
+    </item>
+    <item>
+      <title>Applications for the Rosalind Academic Plan</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>The Rosalind Academic Plan helps eligible academic labs use ChatGPT for life sciences research. Approved labs can receive up to 30 ChatGPT Business Standard seats at no cost for up to 12 months, with GPT-Rosalind access subject to trusted-access approval.
+
+Applications are now open to labs at U.S. universities. If you’re a principal investigator or lab lead, apply on behalf of your lab. Applying doesn’t give your lab immediate access. After approval, follow the instructions to set up your workspace and enable access for approved members. Labs covered by an OpenAI Enterprise agreement should use their university’s access process. For eligibility and setup details, see: Rosalind Academic Plan.</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:ebfa57b31a94f03fa3d78b3d78e51bf5b2d59df57afd94ded0cc181fd04b471f</guid>
+    </item>
+    <item>
+      <title>Site limits (Plus and Pro)</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>There is no longer a fixed limit on the number of Sites you can create. Usage and storage limits continue to apply.
+
+For usage and limits, see: Creating and using ChatGPT Sites.</description>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:e305e132136d19bcb3ff5c986503b823a2ff25a6cfc10ca1d43ca0deeb48ad3b</guid>
+    </item>
+    <item>
+      <title>Composer predictions in Codex</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Composer predictions, available in beta, suggests your next message based on the conversation in your current Codex thread. After Codex responds, a suggestion may appear in the message box. Press Tab to accept it, then review or edit it before sending. Accepting a suggestion doesn’t send it automatically.
+
+The beta is available to personal ChatGPT Pro users aged 18 and older in all supported regions, in the latest Codex desktop app. It supports local and SSH threads using GPT-6 Astra or GPT-6.1 Sol. Predictions are on by default; turn off Show predictions in the Composer section of General settings. During the beta, generating predictions doesn’t count toward Codex usage limits or consume credits. Messages you send, including accepted predictions, follow normal Codex usage limits and billing.
+
+Read more: Composer predictions in Codex</description>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:39098dcda77c444315a06047c688eb10a926ad9afd0d0e0e119f7a1e42ee7e2d</guid>
+    </item>
+    <item>
+      <title>GPT-6 and Intelligent UI in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re introducing GPT-6 with Intelligent UI in ChatGPT. ChatGPT can now combine text, visuals, and interactive elements to fit your question, from side-by-side comparisons and diagrams to tools you can use directly in the conversation, such as calculators, bill splitters, and games. It can choose the format automatically, and still use a simple text answer when that works best.
+
+GPT-6 can also begin answering while it continues to think or use tools, then add more findings without another prompt. You can start reading before the full answer is ready.
+
+The rollout starts globally today for Plus, Pro, Business, and Enterprise in the Chat tab, and expands to Free and Go starting tomorrow. Enterprise availability depends on workspace admin settings.
+
+Plus, Pro, Business, and Enterprise use GPT-6 Sol; Free and Go use GPT-6 Luna. Intelligent UI is available from Instant through Extra High reasoning. The Pro reasoning option continues to use GPT-6 Astra and doesn’t support Intelligent UI. The models powering Work and Codex aren’t changing with this release.</description>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:f9d0d7a668376bf6588c546b2edd8b1c11450072e612f45d637ffcbf61817e1c</guid>
+    </item>
+    <item>
+      <title>Audio uploads in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Upload audio files to ChatGPT to create transcripts, summarize recordings, and ask questions about their contents. You can turn a meeting, interview, or lecture into structured notes or a follow-up email draft. To get started, attach a supported audio file to a conversation and describe what you need.
+
+Audio uploads are available with paid ChatGPT subscriptions and workspaces. Availability may vary by workspace settings, region, client version, and model. Transcripts may contain errors, and performance may vary across languages.
+
+For more information, see: Uploading files and audio to ChatGPT.</description>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:00158bb99fd68ceff37aad21b6a346ffd0d16151ec39ffc8c2f301a1cf2dc9fe</guid>
+    </item>
+    <item>
+      <title>Finances expands to Free and Go users</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Finances in ChatGPT is rolling out to Free and Go users in the U.S. on web, iOS, and Android. You can securely connect your financial accounts to find ways to save, understand your spending, and make sense of your investments, with answers grounded in your finances.
+
+Learn more about Finances in ChatGPT.</description>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:ca04c6dacb060b1d541a264c009deaa94d6462c380aeb0ee49c1ed997e874a5f</guid>
+    </item>
+    <item>
+      <title>New ways to shop in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>See how clothes and accessories could look on you and save your favorites for later.
+
+Virtually try on clothing and accessories: A “Try on” button will appear on product listings for clothes and accessories in ChatGPT. Select it, then take or upload a selfie to generate a virtual try-on with ChatGPT Images. Your reference photo is saved for future try-ons. You can change or delete it in Settings → Personalization → Reference photos.
+
+
+
+Save your finds: Save any product to Favorites or create a folder to organize your finds in your ChatGPT Library.
+
+Available in ChatGPT on mobile and web.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:1ca7802e507461e4aa4c7ca0daa9ef1eea27c3002d3d6acef618beca8411ec8f</guid>
+    </item>
+    <item>
+      <title>Scan notes and documents more easily with ChatGPT camera</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>It’s now easier to bring your notes and documents into ChatGPT on your phone. Capture multiple pages in a row, and ChatGPT automatically combines them into a single PDF, ready to upload to your chat.
+
+To get started, open the camera in ChatGPT, tap the three-dot menu, and select Scan. Rolling out on iOS.</description>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:f946e5368ba513365abcac33a520367366356111715971e02b2f723503640372</guid>
+    </item>
+    <item>
+      <title>A new Pro plan with Astra Ultrafast</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re introducing Pro 500, a new $500/month plan with the highest included usage of the Pro plans and access to Astra Ultrafast in ChatGPT Work and Codex. Select Ultrafast in the model picker to use a faster service tier for GPT-6 Astra. It uses your included allowance first, then your credit balance after that allowance is used.
+
+Among Pro plans, Ultrafast is available only with Pro 500. Buying credits on Pro 100 or Pro 200 does not unlock it. Pro 500 subscriptions are available through ChatGPT on the web at launch.
+
+Learn more about ChatGPT Pro tiers.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:45e8bfce065f77071c7f0a4d71f0430d621aeae03a8ba24df109c31bd7209ceb</guid>
+    </item>
+    <item>
+      <title>Codex Cloud</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Codex Cloud lets you start and continue coding tasks from desktop, web, or mobile using reusable environments with your project’s repositories, tools, and dependencies. Each task gets its own isolated workspace, and tasks can continue while your computer is asleep. In managed workspaces, your workspace’s Codex cloud-access settings apply.
+
+To connect repositories and prepare an environment, see: Set up and configure Codex Cloud. For availability and usage, see: Using Codex with your ChatGPT plan.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:5d106d31ad74fcf75fcebcabe7ea58495edc29c32754a4c37e5f675287eec78c</guid>
+    </item>
+    <item>
+      <title>Create and collaborate on Pages</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Turn a conversation into a Page, start from a template, or begin writing directly in Space. Edit the text yourself or ask ChatGPT to revise it, add charts, or create interactive content. Collaborators can work on the same Page and leave comments, with each person using their own ChatGPT.
+
+Pages follow Space’s availability and sharing settings. Sharing a Page does not give other people access to your private chats or memory; information added to the Page is visible to people who can view it.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:81d5678f3abbbdcf65ecc232e7b2ad7df3006c983f41d5e2e2e08d5e58ae7326</guid>
+    </item>
+    <item>
+      <title>Creating, editing, and scheduling Sites</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Site owners and editors on Plus and Pro can select Edit site from a published Site in a desktop browser to continue editing in ChatGPT, review changes, and publish when ready.
+
+Site owners can also create recurring cloud schedules from Automations. These updates are available where Sites is supported. Learn more about creating and managing Sites.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:9a9387662f7b9ab8abbd724eda4efe4caa7989e783cfc0552d63ac9c3c87ed26</guid>
+    </item>
+    <item>
+      <title>GPT-6.1 Sol in ChatGPT Work and Codex</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professional work. We’re rolling it out in ChatGPT Work and Codex, starting with Pro users and expanding to Plus, Business, Enterprise, and Edu. Enterprise and Edu workspace owners can enable model access in Workspace settings &gt; Permissions &amp; roles, on the Workspace tab or through a custom role. Learn how to manage model access with role-based access control.
+
+For availability and model selection, see: ChatGPT Work and Codex.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:044fe1225ac3c7531288255d44315f18cf6e1d863d682b3c8271c54ec51e41d5</guid>
+    </item>
+    <item>
+      <title>Meet your dot</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re introducing dots: always-on agents in ChatGPT that can take on ongoing work and keep making progress between conversations. Give your dot a goal, connect the apps it needs, and define what it can do on its own. Powered by GPT-6 Astra, your dot has its own cloud computer and can bring results back for your review.
+
+Dots are rolling out gradually to eligible Pro and Business Premium users aged 18 and older in supported markets. Pro access excludes the European Economic Area, Switzerland, and the UK at launch. Enterprise access is a beta and is off by default. Create your dot in the ChatGPT desktop app or on desktop web.
+
+For the next month, dots usage won’t count toward eligible Pro, Business, and Enterprise users’ plan allowances. After this period, we’ll share usage terms for each plan.
+
+Learn more about getting started with your dot.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:2aadb7d90b03c8bbffdb3c1cebcefef2dd8b5ea9df804dce696f0e4205c3472b</guid>
+    </item>
+    <item>
+      <title>Meetings plugin</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re making it easier to bring meeting context into ChatGPT so you can act on next steps faster. The Meetings plugin takes notes for you based on what’s said in the meeting and saves personalized summaries with action items in ChatGPT Space. You can keep them private or share them with your team, then ask ChatGPT to update a project plan or draft a follow-up.
+
+Audio is deleted once your notes are ready and can’t be accessed or replayed. Available in beta in the ChatGPT desktop app on macOS to Pro and Business users, with Enterprise coming soon. Learn more.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:5e8736f8f1dc3c4263cf4f67a606ca64e342ce6f60bc3273142ff35d95195791</guid>
+    </item>
+    <item>
+      <title>Organize your work in ChatGPT Space</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Space brings your Pages, files, and related work together in ChatGPT. Create a space for a project, add the material you need, and share it with other people so you can keep building on the same work. Space replaces Library for accounts with access; your existing Projects remain separate.
+
+Available to eligible Pro, Business, and Enterprise users in the ChatGPT desktop app and on the web. Sharing in managed workspaces follows your organization’s settings; Enterprise sharing is an opt-in preview.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:168667172b14a511b43f06a9514a255e3eaf324c545c400cc271738877a94f80</guid>
+    </item>
+    <item>
+      <title>Pro 200 subscriptions</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Pro 200 is available for new subscriptions again at $200/month.
+
+Included usage allowances are changing. Users affected by these changes will receive an email with additional details. The monthly price remains $200.
+
+Learn more about Pro plans and existing subscriptions.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:f40d422c338a69969f99bf6716ebb01a1d8231ea99b44eda03636b30fe778415</guid>
+    </item>
+    <item>
+      <title>Review pull requests with Codex</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Use Code Review in Codex to read pull-request summaries and diffs, review findings, and discuss changes. Open a pull request, inspect the changes, and ask Codex to explain a section or help address a potential issue before sharing feedback.
+
+Available through the Code Review plugin on supported desktop and web experiences. Access to a repository follows your connected account and workspace permissions.
+
+Learn more about Code Review.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:d269eba2fef79ee45b7e9f40d0929bf16b1a0f5c6dc48dc73aff222ffda853fb</guid>
+    </item>
+    <item>
+      <title>Scan repositories with Codex Security Cloud</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Codex Security Cloud can scan GitHub repositories on demand or on a schedule, while ongoing checks review new commits. Codex investigates findings, removes duplicates, and prepares proposed fixes for review. Scans run in the cloud and can continue after you close your laptop.
+
+Access requires the applicable workspace permissions, repository setup, and billing configuration. Existing Codex Security customers opt in before paid usage. This feature provides access to Daybreak Blue models only within Codex Security Cloud.
+
+Learn more about setting up Codex Security Cloud.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:c68ba9c3f8af619679d5771927efdea17fd203ccb2b10402fd638a314d93b2cd</guid>
+    </item>
+    <item>
+      <title>Share your profile and showcase your Sites</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Your ChatGPT profile now brings together your bio, activity, and Sites you choose to showcase. Personal profiles are private by default. You can make yours public and share its link with other people signed in to ChatGPT. Shared profiles do not show conversation titles or content.
+
+Profile sharing and the Sites showcase are available on web and desktop. In Business workspaces, administrators control whether coworkers can view workspace profiles. Enterprise access is coming later.
+
+Learn more about shareable profiles.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:b090ce36bc9fe39eac75085643650b75b0d0a76bdc7625781792ae4eebedd17f</guid>
+    </item>
+    <item>
+      <title>Sign in to other products with ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>You can use your ChatGPT account to sign in to participating products without creating another password. The product receives your name, email address, and profile picture if you have one. Signing in does not share your ChatGPT conversations or memory; you approve any additional access separately.
+
+Available to signed-in ChatGPT users, subject to organization settings. Sign-in access is separate from permission to use your ChatGPT plan allowance.
+
+Learn more about Sign in with ChatGPT.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:40a8eb01a285aea55c7615a26c25fb9f6164e6b051d3f628cd51ccb069c664d9</guid>
+    </item>
+    <item>
+      <title>Start automations from connected-app events</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Supported plugins can use MCP events to start an automation when something changes in a connected app. Describe what you want ChatGPT to follow and what it should do with matching updates—for example, prepare a summary when new information arrives in a channel you have asked it to monitor.
+
+The connected account must have access to the event and any information used by the task.
+
+Learn more about connected apps in ChatGPT.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:526fbaa0472fde5e2e2bedf760377c79827aeee0bc188439c1e3373861ca3336</guid>
+    </item>
+    <item>
+      <title>Use your ChatGPT allowance in participating apps</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Eligible Plus and Pro users can authorize participating apps to use their ChatGPT model allowance without creating an API key. Choose which apps can use your allowance and set an app-specific limit. Usage counts toward your existing plan allowance; connecting an app does not add more usage.
+
+This is a limited preview with participating integrations. Using purchased credits requires a separate opt-in. A partner may still charge for its own product or services.
+
+Learn more about using your ChatGPT allowance in other apps.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:41b818a7edb84f32eb3bb403d14eebf95e71a4195f66c4febfc976cc66438f0c</guid>
+    </item>
+    <item>
+      <title>Work with interactive plugin extensions</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Plugins can now include interactive panels, sidebar views, and viewers or editors for supported file types. Work with an app alongside your conversation, select the information you want ChatGPT to use, or complete a form provided by the plugin.
+
+Plugins still require their applicable account connections and workspace permissions.
+
+Learn more about plugins in ChatGPT and Codex.</description>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:1ae2e1481c5febed4d624b369cbcf0e44f945db43bb6f3a44b8aea028cd6b42f</guid>
+    </item>
+    <item>
+      <title>Explore your health data with personalized summaries</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>You can now select a chart, metric, or record in the Health tab to get personalized explanations and insights based on your connected health information.
+
+Learn more about Health in ChatGPT.</description>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:26ba1fee88decb9660d0120b703c1684d957fb8e8067f74f5d435bfa5c6f6e92</guid>
+    </item>
+    <item>
+      <title>Security history in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re introducing security history, a new way to review recent security activity for your OpenAI account. You can see sign-ins, sign-outs, and changes to multi-factor authentication (MFA), passkeys, and other security settings. Events include the time, location, and device details. Some details may be approximate or unavailable.
+
+To view your history in ChatGPT on the web, go to Settings &gt; Security and login, then select Security history. For help reviewing unfamiliar activity and securing your account, see: Keeping your OpenAI account secure.</description>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:b5a4d3cce8aae8cf768d6a6b51cb2c1be0b5ea3fa9aeb5e780114f10c1292702</guid>
+    </item>
+    <item>
+      <title>Use plugins in Voice and get work done by speaking</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Live now supports plugins on web, iOS, and Android. You can use the plugins and connected apps available to your account during a Voice conversation and follow written responses in the chat.
+
+Voice is also available in Work on web and mobile. Ask it to create documents, presentations, and spreadsheets, use connected apps, or work in a browser. When you end a Voice call in Work, an unfinished task can continue in text.
+
+Free and Go users can use Voice in Chat with the plugins their plan supports. Voice in Work requires both Voice and Work access. Existing app connections, permissions, and usage limits apply.
+
+Learn more: ChatGPT Voice.</description>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:7d0ebd5a472862a82f03c3c941ba9bdd76e6739f77434307e596b8c459708dde</guid>
+    </item>
+    <item>
+      <title>GPT-6 Sol and Luna in Work and Codex</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re introducing GPT-6 Sol and GPT-6 Luna in ChatGPT Work and Codex. These models are separate from the models available in Chat.
+
+Codex desktop keeps the model you selected manually.
+
+Available models and reasoning effort options depend on your plan and workspace settings.
+
+Learn more about ChatGPT Work and Codex.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:3287d29f3879a226a0d1a903055e5a2adbcceb09e6b7b70d131607222f05d723</guid>
+    </item>
+    <item>
+      <title>Create flashcards in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>You can now create interactive flashcards in ChatGPT. Ask for flashcards on a topic you want to learn, or upload your notes and ask ChatGPT to turn them into flashcards.
+
+Tap a card to flip it, then select ✔️ if you know the answer or ❌ to practice it again later. Shuffle your cards to practice in a different order.
+
+Flashcards are automatically saved in your library. To practice again, open them there or ask ChatGPT to review them back.
+
+Available on mobile and web for all ChatGPT plans.</description>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:e0868e001683c9cd6f02170d0bab5238c5b0e0f12b3ba164ce29e42347682b8b</guid>
+    </item>
+    <item>
+      <title>Credit scores in Finances</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>You can now track your credit score in ChatGPT. Securely connect your Experian® credit report and VantageScore® 3.0 credit score to get personalized insights into what’s affecting your score and how it relates to your finances and goals.
+
+Your score and report update monthly, and credit monitoring can alert you to important changes, such as a new inquiry, account, or address. Your Experian connection is separate from your bank accounts, so you can use the credit-score feature without connecting accounts through Plaid.
+
+This feature is rolling out in Finances to Plus and Pro users in the U.S. on web, iOS, and Android. Some eligible users may not see it right away.
+
+Learn more about Finances in ChatGPT.</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:d8ce073d6d142a259746582337f6dfb925a94e1a97f510793c4c761255e7880b</guid>
+    </item>
+    <item>
+      <title>Privacy Center in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Privacy Center is rolling out to signed-in ChatGPT Free, Go, Plus, and Pro users. It brings together information about chat privacy, memory, personalization, data use, connected apps, and account security, with links to the settings that manage them. Your privacy controls remain in ChatGPT Settings.
+
+On the web, open your account menu, select Help, then select Privacy Center. On mobile, open Settings, then select Privacy Center on iOS or Privacy center on Android. Available options depend on your plan, region, and workspace settings.
+
+Learn more: Privacy Center in ChatGPT</description>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:50194a184de378c562e6dae8f81f92c5c53e34c9d1bd4dfb7c25ee4d2b855528</guid>
+    </item>
+    <item>
+      <title>ChatGPT for Word</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>ChatGPT is now available in Microsoft Word. You can draft from notes, summarize a document, revise selected text, and adjust headings and formatting from the ChatGPT sidebar. Word joins Excel and PowerPoint through the same Microsoft add-in.
+
+ChatGPT for Word is available on all ChatGPT plans, including Free. Your plan’s token limits apply, and Word draws from the shared usage allowance for Codex and other premium features on plans that include it.
+
+To get started, install the ChatGPT add-in from Microsoft Marketplace, open ChatGPT in Word, and sign in.</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:b7953ac1e591fc041ded64a8b6280f5aaa09a37316e47b850071b0cf2f8629eb</guid>
+    </item>
+    <item>
+      <title>Connect multiple accounts to plugins in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>You can now connect multiple accounts to plugins in ChatGPT, expanding support beyond Gmail, Google Calendar, and Google Contacts. Bring your personal and work accounts into the same conversation, so ChatGPT can help you find information and get things done across your personal and work accounts. Available on all ChatGPT plans across web, mobile, and desktop.</description>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:19563f1f0cb0790e8cb22c685e7320273befbc9e311fc779f59690b1acba1f39</guid>
+    </item>
+    <item>
+      <title>Updated permissions for new Health connections</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>For new Health plugin connections, ChatGPT will now default to each user’s global plugins permissions setting.
+
+If you make no changes to your Plugins settings, the default permission setting is “Allow low-risk actions.” This means that once you’ve connected your information in Health, ChatGPT can use it when relevant without asking for permission each time, unless you are attempting a sensitive action, such as asking ChatGPT to email a training plan based on your data to a running partner. This change reflects what we’ve seen from users: more than 70% of Health users already choose to allow ChatGPT to use data connected in Health without asking for permission each time.
+
+You can change your Health permissions anytime in Settings → Plugins → Health. Learn more about how we keep Health data private and secure.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:153cf5ee9eb777d0c96fa79ff4754dbe7a2352fd1e2b75943a3b8355c09ad9e5</guid>
+    </item>
+    <item>
+      <title>Changes to automatic switching to thinking in ChatGPT (Plus and Pro)</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re retiring automatic switching from Instant to Thinking (reasoning) for ChatGPT Plus and Pro users globally. You can still select an available option in the model picker to give ChatGPT more time to think or reason.
+
+We’re also removing the Higher intelligence setting from ChatGPT on the web for these plans. ChatGPT can still switch automatically for safety purposes.
+
+For more information, see: GPT-5.6 and GPT-6 Pro in ChatGPT.</description>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:b0c8206ad8f64cec005e7bc211ef43b9b12b6e8aae230b757061df07e960e856</guid>
+    </item>
+    <item>
+      <title>Planned custom GPT retirement and migration to plugins</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re planning to retire custom GPTs across ChatGPT plans and provide a migration path to plugins, which can combine reusable instructions with connected apps. You can continue using existing GPTs until the retirement date that applies to you, subject to your permissions.
+
+To prepare, review the GPTs you rely on and identify their creators and anyone who needs access. When migration becomes available, test migrated plugins and review sharing. Timing and availability may vary by plan and workspace; follow applicable notices and learn more about the planned retirement.</description>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:80b9c4e09289e3d2657c4a67dcbc5d794208ce40c6716e61e2695088cb16f2b2</guid>
+    </item>
+    <item>
+      <title>Data plugin in ChatGPT Work and Codex</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>The Data plugin helps you analyze connected business data in ChatGPT Work and Codex. Ask a business question, investigate changes, or create an interactive dashboard or report. You can refine the analysis with follow-up questions and bring in your team’s metric definitions and other business context.
+
+To get started, install Data from the plugin directory, then start a conversation with @Data. Connected sources may require setup or authorization, and queries use your connected account’s existing permissions. Learn more.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:4596453d923d6b2594cb8c93be6074f5728b3717c915c50dbc4866a31a310a04</guid>
+    </item>
+    <item>
+      <title>Box, Dropbox, and SharePoint are now in Library</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Box, Dropbox, and SharePoint now join Google Drive in ChatGPT Library. Once connected, you can browse and search available files and folders, then add the files you need to a conversation through Add from Library or @mentions—without uploading them again. You can review supported file previews beside the conversation and follow citations back to the source as you work.
+
+When you’re working with a file, you can now keep Box, Dropbox, and SharePoint files open beside the conversation while asking ChatGPT to summarize, analyze, compare, or create something new from them. You can also select a folder and ask ChatGPT to work across the files it contains. Your content stays connected to their original source, so it’s easy to return to the original.
+
+Availability
+
+Box, Dropbox, and SharePoint integrations are now rolling out to Go, Plus, Pro, Business, Edu, Healthcare and Enterprise users on the web in both Chat and Work. Existing file permissions and workspace controls apply. Mobile support will follow.
+
+Rolling out to Plus, Pro, Enterprise, Edu, Healthcare and Business users on the web in both the Chat and Work toggles. Mobile support will follow.</description>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:514c884ebe91a402fd3dfa83ba229039026ab8f84e35459596e81258a1dcbcfb</guid>
+    </item>
+    <item>
+      <title>Updated models and usage limits in ChatGPT Voice</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>ChatGPT Voice can now use GPT-5.6 or GPT-6 Astra when it needs to search or reason through harder questions. Choose your model and reasoning effort using the same controls as text chat. Available models and their usage limits depend on your plan.
+
+We’re also simplifying GPT-Live daily usage limits:
+
+Go: Up to 3 hours with GPT-Live-1 mini, replacing GPT-Live-1 access.
+
+
+
+Plus: Up to 3 hours with GPT-Live-1.
+
+
+
+Pro ($100/month): Up to 15 hours with GPT-Live-1.
+
+
+
+Pro ($200/month): Unlimited GPT-Live-1 usage.
+
+Plus and Pro no longer switch to GPT-Live mini after reaching a Voice limit.
+
+With these updates, the separate Instant/Medium/High Voice intelligence levels are deprecated.
+
+Learn more: https://help.openai.com/en/articles/20001274-chatgpt-voice</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:0c465a593f342858a36f2230eb35603012de3cdaf350944b9afd3e951dec90dd</guid>
+    </item>
+    <item>
+      <title>Share files and folders from your Library</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Library sharing lets you share files and folders in ChatGPT, choose who can access them, and work with shared content directly in your conversations.
+
+What’s new
+
+Share with specific people. Invite recipients and assign Viewer or Editor access.
+
+
+
+Share across your workspace. Make content available to everyone in your workspace.
+
+
+
+Manage access. Review who has access, change permissions, or remove access from the sharing dialog.
+
+
+
+Find and use shared content. Access items in Shared with me and use shared files in conversations with ChatGPT.
+
+Shared folders and ownership
+
+Files uploaded to a shared folder belong to the folder’s owner. The person who uploaded each file is still recorded.
+
+If you upload a file to someone else’s shared folder and they later remove your folder access, the file stays in their folder and you lose access to it.</description>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:79b7b04d1657c7f7c7f8fc36034f7f75feca9735dc383fe1ee32f7c01babf5ed</guid>
+    </item>
+    <item>
+      <title>ChatGPT Images 2.5: new ways to create and edit</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>ChatGPT Images 2.5 brings sharper details, more precise editing, and faster image generation. We’re also introducing new ways to create and share:
+
+Start from a template. Open Images → Templates, choose a template, and customize the details. ChatGPT may ask follow-up questions to help refine your request.
+
+
+
+Turn a sketch into an image. On mobile, type @ in the message box and select Sketch. Draw your idea, then describe the image you want to create.
+
+
+
+Edit and comment. On mobile, open a generated image full-screen to edit it or add comments to tell ChatGPT what you’d like to change..
+
+
+
+Share a prompt. Share the prompt for a generated image so others can create their own version.
+
+Some users will also see animated dots and a Snake game while images are generated. The loading experience varies by platform and rollout; Snake isn’t available in Work mode.
+
+Templates are not yet available in Work mode. Existing image-generation limits are unchanged.
+
+Learn more about Images in ChatGPT.</description>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:ad8aed51851742dd108058b5a2bf946837b929b70c564d5d27df5fe203094d88</guid>
+    </item>
+    <item>
+      <title>Introducing GPT-6 Astra</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Today we’re introducing GPT-6 Astra, with improvements in coding, research, computer use, and complex, multi-step work. Astra can create documents, spreadsheets, and presentations that follow your templates and instructions, and adapt when you add requirements or change direction.
+
+Access is rolling out to a limited set of organizations. Astra is not yet generally available. Broader availability is planned over the coming days.
+
+Astra includes additional safety monitoring to look for cases where agents may not have interpreted your instructions correctly. If a potential case is detected, the conversation may be paused or stopped as a precaution for you to review and decide how to proceed.</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:9cf07936597dea7a87e5551f5742a692fd44182fd1f3283fdc5090b4b46b10e7</guid>
+    </item>
+    <item>
+      <title>Zendesk &amp; OneNote Plugins in ChatGPT and Codex [Beta]</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Today, we added the Zendesk and OneNote plugins in the Plugin directory. The Zendesk plugin helps teams review support tickets and customer history, find relevant knowledge, and prepare replies in ChatGPT and Codex. Members connect their own Zendesk accounts to work with the support information they can access.
+
+The OneNote plugin helps you find and summarize notes, gather decisions and action items, and create or update notes through supported actions in ChatGPT and Codex.
+
+Read more: Zendesk Plugin, OneNote Plugin.</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:dc0049215c9eab8d6e370f1fa361a8a0483aba453fad2e37d3fcb71bbbaddf04</guid>
+    </item>
+    <item>
+      <title>Share Sites with people outside your workspace</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Eligible Site owners can now share a live ChatGPT Site with named people outside their workspace, without making the Site public. External viewers can use the shared Site but cannot edit or publish it.
+
+To share, open the Site, select Share, enter the recipient’s email, and save their viewer access. The recipient signs in with the account that was granted access. You can review or remove viewers in the Site’s sharing controls. Learn more in Creating and managing ChatGPT Sites.</description>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:ce8edbc758b7bcaf4cf1ef845416016b154fb782fb1951ff73400cd755ee661c</guid>
+    </item>
+    <item>
+      <title>Healthcare Public Data in ChatGPT for Clinicians</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Eligible ChatGPT for Clinicians users in the United States can now use Healthcare Public Data in ChatGPT. The plugin brings together nine apps for searching public healthcare sources, including biomedical research, clinical trials, medication information, Medicare data, and provider records.
+
+To get started, install the plugin from the Plugin directory, then connect the apps you want to use. These apps are read-only and do not access patient charts. Do not include protected health information in searches sent to public sources.
+
+For details, see: Using Healthcare Public Data in ChatGPT and Codex.</description>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:5903fd6e53ebb9eaa4ff7246d529097268c8c8e25092dcdc8a4ab43b48549fd9</guid>
+    </item>
+    <item>
+      <title>Create and share personalized sticker packs</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Turn an idea or a photo into a set of stickers you can use in your messages.
+
+Start with a prompt or template. Ask ChatGPT to make a sticker pack, or choose a sticker template from the home screen or Images.
+
+
+
+Share your stickers in messaging apps. Download your pack or add it to iMessage or WhatsApp on supported devices.
+
+Available to all ChatGPT users on mobile globally. Update the ChatGPT app to see the new experience.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:35ca7ca469268bb97df553df929d2986cfaf26a6818765f430a9ec88373a1fbe</guid>
+    </item>
+    <item>
+      <title>See Live voice content on your Lock Screen</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Content from a Live voice conversation can now appear on your iPhone’s Lock Screen and, on iPhones with Dynamic Island, in the Dynamic Island.
+
+Follow along outside the app. Live Activities can show content from your voice conversation while you use another app or your phone is locked.
+
+To continue a Voice conversation outside ChatGPT, turn on Background conversations in Settings → Voice.
+
+Learn more about ChatGPT Voice.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:70abc3fe75fbfb088d12020d458776f1c37c0764069b184c335a33bc8ce12479</guid>
+    </item>
+    <item>
+      <title>Use website tools in the desktop browser</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>ChatGPT Work and Codex can now use tools that supported websites provide directly in the desktop app’s built-in browser.
+
+Work directly with a website’s tools. ChatGPT can discover tools for your task without a separate connection. Select the arrow in the address bar to see the tools a page provides.
+
+Site tools use WebMCP and require a supported account, model, and webpage. They are available in the built-in desktop browser, not through the Chrome extension. Existing website-access and sensitive-action confirmations still apply.
+
+Learn more about site tools.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:678843cd1cde807a08f37acdaa78d0218444dbcd55a922e9e49232c9882c07f4</guid>
+    </item>
+    <item>
+      <title>Use the browser extension in more browsers</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>The ChatGPT browser extension now supports Microsoft Edge, Brave, Opera, and Vivaldi.
+
+Bring your browser into Work and Codex. Mention open tabs to use them as context, or ask ChatGPT to complete a browser task from the desktop app.
+
+Side chat is available in Edge, Brave, and Vivaldi. Opera supports tab mentions and browser control, but not side chat. Update the desktop app before setup; availability depends on your workspace settings.
+
+Set up the ChatGPT browser extension.</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:3f3564dccdf56d227199a30e5833f6896c69d562eda9b6a00b3ddb287879d5e5</guid>
+    </item>
+    <item>
+      <title>Improved pronunciation help in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>When you ask how to pronounce a word or phrase, you can now tap to hear it aloud and see a phonetic breakdown</description>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:2198e42022e2b398ddcbb4e27d09856c8089abe901f2ef81260308664e03d140</guid>
+    </item>
+    <item>
+      <title>Connect multiple Google accounts to ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>You can now connect multiple accounts for Gmail, Google Calendar, and Google Contacts plugins in ChatGPT, bringing your personal and work accounts into the same conversation. Ask ChatGPT to check your calendars together when planning your day or find emails across your connected inboxes.
+
+Available globally on supported Plus, Pro, Business, and Enterprise plans across web, desktop, iOS, and Android.</description>
+      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:180384a29bd4f18a98c9498330109bb5685511209a5c2455aff1d55b044a8eca</guid>
+    </item>
+    <item>
+      <title>More controls in temporary chat</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re rolling out new controls in temporary chat. You can now choose to personalize responses in a temporary chat with memory, plugins, and custom instructions from your regular chat settings. You can also choose to save a temporary chat.
+
+How it works
+
+Personalized: When you create a temporary chat, you can choose to have personalized responses.  Personalized temporary chats can use your memories, custom instructions, and plugins to tailor responses. They do not create new memories and remain out of your chat history unless you save them. Personalization can be set only when you start a temporary chat and cannot be changed after the conversation begins.
+
+
+
+Non-personalized: By default, temporary chats are not personalized. Non-personalized temporary chats do not use memory, custom instructions, or plugins, and they do not create new memories.
+
+
+
+Saving a temporary chat: When a conversation becomes useful for the future, you can add it to your chat history. Saving converts it into a regular chat, so it then follows your account-level personalization settings and model-improvement preferences. For example, if you have memory enabled and save a temporary chat, this will become part of your chat history and can be referenced to personalized future responses.</description>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:2d335cd76229bf6cc70882b39969275e7b99f32be625fe0cb324a00fbf61b7e8</guid>
+    </item>
+    <item>
+      <title>Scheduled tasks can respond to app updates and be shared</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Scheduled tasks in ChatGPT Work can use webhooks to respond when something changes in a supported app, helping you keep work moving without repeatedly checking for updates. You can also share a task so someone else can review and customize it, connect their own apps, and schedule an independent copy.
+
+Supported webhooks include new Gmail messages, Slack channel messages, and GitHub pull request activity.
+
+Create webhook-triggered tasks
+
+Plus and Pro users can ask Work on web, iOS, and Android to respond when a new Gmail message arrives, a Slack channel receives a message, or a GitHub pull request changes. For example, ask ChatGPT to summarize an email announcing that registration has opened, or draft next steps after a client shares feedback in Slack. Add @ChatGPT to each monitored Slack channel. Actions that require approval pause until you review them.
+
+Share scheduled tasks
+
+Free, Go, Plus, and Pro users can share scheduled tasks. Recipients can review and customize the instructions and, when applicable, the schedule, connect their own apps, and create an independent copy. Running a shared webhook-triggered task requires access to Work and the recipient’s own connected app.
+
+Scheduled tasks for Free users
+
+Free users can create up to three active scheduled tasks. Tasks can run once or recur no more than once per day using flexible scheduling windows. Free and Go users cannot create webhook-triggered tasks.
+
+For more information, see: Scheduled tasks in ChatGPT.</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:e1b1dda05de12b4b13f93a5e0863a6feb05b525abd56cd896c549254baf6860f</guid>
+    </item>
+    <item>
+      <title>ChatGPT Work can now complete tasks on signed-in websites</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>ChatGPT Work’s browser on web and mobile can also help you get tasks done on some websites that require you to sign in—so you can hand off a task and step away while it keeps working.
+
+To get started, just ask ChatGPT Work to complete your task. If a website allows authentication, ChatGPT will surface the login screen so you can securely enter your credentials. You may also need to enter a security code. Once you’re signed in, ChatGPT can continue working. Your session may remain signed in for future tasks, so you don’t have to log in again every time. ChatGPT Work’s browser supports the use of password managers for simple, safe login. ChatGPT cannot see your username or password, and they are never seen by the model or used in model training. ChatGPT does not store your username or passwords. You can delete your browsing history from all sites or one site individually at any time from Settings &gt; Cloud browser &gt; Browser data.
+
+You can now ask ChatGPT Work to do things like:
+
+Figure out utilities for a new apartment and sign up for the right plan
+
+
+
+Book a DMV appointment or fill out your passport renewal forms
+
+
+
+Check X-ray and bloodwork costs through your insurance portal
+
+
+
+Find profiles of people that fit your job description and are open to work
+
+You stay in control of which websites ChatGPT Work can access, and it will always ask for confirmation before consequential actions, such as completing a reservation or payment.
+
+Authentication in ChatGPT Work’s browser is available for Plus and Pro plans.</description>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:9cbc26c89c89c5ef579051539daf9e692a6d9748c382dbf6eda57d1d47b2948f</guid>
+    </item>
+    <item>
+      <title>Improved plugin discovery on web and mobile</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Updated plugin recommendations make it easier to find tools people continue to use.
+
+Find more useful plugins. Rankings now prioritize plugins people keep using after installation, helping relevant options surface across ChatGPT on web and mobile.
+
+Plugin availability depends on your plan, region, and workspace settings. Desktop is not included in this update.
+
+Learn more about plugins in ChatGPT and Codex.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:3e331c40e03c988212393904f183b03328c9227b9f1f6bc073b7f69ea977faa9</guid>
+    </item>
+    <item>
+      <title>More time-aware answers</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>ChatGPT now has a better sense of your local time during a conversation.
+
+Get answers that fit your time of day. ChatGPT can better account for your local time when responding to time-sensitive questions.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:7f35042ced1c62cc407429cfff164d782435f05529ca1e24923d16196dc8ff68</guid>
+    </item>
+    <item>
+      <title>Faster long conversations on the web</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Long conversations now load more efficiently in ChatGPT on the web.
+
+Open longer chats without the wait. ChatGPT loads messages in smaller sections instead of retrieving the entire conversation at once.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:d66e2fd35c6dcc42c3bdb3c45210cfc3dec07cc6406eb1262ff36e9ece634a0f</guid>
+    </item>
+    <item>
+      <title>Interactive content appears sooner on the web</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Interactive content generated by ChatGPT can now begin appearing while it is still being created.
+
+See interactive content sooner. Interactive experiences now appear progressively in the conversation instead of waiting until the full experience is ready.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:a0654d93992c68a04bb972e45c7939d356787e8cbbcba8f515de0d1edfa727e3</guid>
+    </item>
+    <item>
+      <title>Updates to ChatGPT on iOS</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Recent photos are easier to reach, and connection-status messages are clearer.
+
+Attach recent photos faster. Press and hold the + button to open your recent photos, then choose one to add to your conversation.
+
+
+
+See clearer connection updates. ChatGPT now tells you when it is waiting for an internet connection.
+
+Available in the ChatGPT app for iOS. Access to recent photos requires permission to access your photos.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:2732276751c21f006e336ad8b801997531482f3628341533cec80e974388b171</guid>
+    </item>
+    <item>
+      <title>Updates to ChatGPT on Android</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Generated images are easier to view, and your recent conversations are easier to browse.
+
+See generated images at full width. Images you create in ChatGPT now fill the width of the conversation.
+
+
+
+Keep recent chats easier to browse. Your sidebar now shows up to eight recent conversations.
+
+Available in the ChatGPT app for Android, version 1.2026.216 or later.</description>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:8c12d16090d38f4dab06561676a2a047d30eef1b4f2e1214b5f8a74568bbc59f</guid>
+    </item>
+    <item>
+      <title>Codex and ChatGPT feature updates</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Choose a new URL for a ChatGPT Site. Site owners on Plus and Pro can change an existing Site’s ChatGPT-hosted URL without redeploying it. The previous address redirects to the new URL, including routes and query parameters, while custom domains remain separate and unchanged. In the Site’s settings, select Change URL. Learn more about creating and managing ChatGPT Sites.
+
+
+
+Use Apple Messages from Codex and ChatGPT Work. On Apple silicon Macs, the Apple Messages plugin in the ChatGPT desktop app can read and search iMessage, SMS, and RCS conversations and prepare or send messages through Messages. By default, ChatGPT asks the user to approve the message and recipients before sending. Learn more about the Apple Messages plugin.
+
+
+
+Use Computer History in more regions. Computer History is now available in the EEA, Switzerland, and the United Kingdom for Pro users in the ChatGPT desktop app on macOS. It is off by default and requires Memories. Learn more about Computer History.
+
+
+
+Share a read-only snapshot of a Codex chat. Personal share links can be opened by anyone with the link. A snapshot is static and does not include tool calls or shell input and output. Codex redacts known secret patterns, but users should review the snapshot because sensitive paths, diffs, images, or other content may remain. Learn more about sharing a Codex chat.
+
+
+
+Keep pinned chats in sync. Pinned chats now stay in sync between the ChatGPT desktop app and iOS when you use the same Codex account. Android is not included in this release. Learn more about organizing projects and chats.</description>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:0fa71f94b86313fcba52d7b1d029b7570486794f31c0296880a6331da540aa5d</guid>
+    </item>
+    <item>
+      <title>ChatGPT app experience updates</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’ve made it easier to study with interactive quizzes, manage project memory, and move between typing, dictation, and desktop work.
+
+Learning, Projects, and personalized suggestions
+
+Practice with interactive quizzes. Ask ChatGPT to quiz you on a topic and answer questions directly in your conversation. Available to all consumer ChatGPT plans and Edu plans on web and mobile.
+
+
+
+Change an existing project’s memory setting. For eligible unshared projects, switch between default and project-only memory without starting a new project. Shared projects remain project-only.
+
+
+
+Get suggestions that fit how you use ChatGPT. Eligible paid users can see homepage suggestions based on their conversation history and connected tools.
+
+Web
+
+Use Think on Free and Go. Select Think on the web when you want ChatGPT to reason through a harder question.
+
+Android
+
+Switch between typing and dictation. The dictation button stays available after you add text or attachments, so you can continue building the same message.
+
+
+
+See suggestions that stay in sync. Composer suggestions update as you type or delete text.
+
+
+
+Keep typing with a physical keyboard. Connected keyboards keep the composer focused, preventing interruptions while you write.
+
+Linux desktop
+
+Use ChatGPT and Codex on Linux. The desktop app is now available globally in public preview on Ubuntu 24.04 LTS and 26.04 LTS, Debian 13, and Fedora 43 and 44.
+
+
+
+Work in the built-in browser or Chrome. Browser actions are available in the Linux app; controlling other desktop apps is not yet supported.
+
+Download ChatGPT for Linux.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:18da6ce9747c5d5d6cb2f820950a95c4180c26d68eca1179c404d1faef132ce8</guid>
+    </item>
+    <item>
+      <title>Edit memory settings for existing projects</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>You can now change a project’s memory setting after you create it. Open the project, select the three-dot menu, choose Project settings, and select Default memory or Project-only memory under Memory.
+
+With project-only memory, ChatGPT can use conversations from the same project for context, but it won’t reference memories or conversations from outside the project. Information from the project is also kept out of memory used in chats outside the project.Changes may take a few hours to take effect.
+
+This update is available on all ChatGPT plans. Shared projects continue to use project-only memory and cannot be switched to default memory. ChatGPT Work is not available in projects using project-only memory.
+
+Learn more about Projects in ChatGPT.</description>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:53780a2a961c938e62b5d3269bd1136a312ae2904714470490ca7669c30b2eaf</guid>
+    </item>
+    <item>
+      <title>Google Drive is now in Library</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>If you have the Google Drive plugin connected, you can now see and browse your Google Drive files and folders directly from Library, including items shared directly with you. You can also quickly pull up a Drive file from the composer or with @mentions and add it to any chat—without uploading it again.
+
+When you’re working with a file, you can now keep Google Docs, Sheets, and Slides open beside the conversation while asking ChatGPT to summarize, analyze, compare, or create something new from them. You can also select a folder and ask ChatGPT to work across the files it contains. Your content stays connected to Drive, so it’s easy to return to the original. Where supported and authorized, ChatGPT can update the source file directly.
+
+Availability
+
+The initial experience includes My Drive and files and folders shared directly with you; Shared Drives aren’t included yet. Some Google Drive editing and collaboration features aren’t yet available in ChatGPT.
+
+Rolling out to Plus, Pro, Enterprise, Edu, Healthcare and Business users on the web in both the Chat and Work toggles. Mobile support will follow.</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:a22bc0a3d8302d20e6a010192710b80c37a34e94a05dbd9a589881b330744be7</guid>
+    </item>
+    <item>
+      <title>Computer History for macOS</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Computer History is an optional feature in the ChatGPT macOS app that lets ChatGPT and Codex reference selected activity from apps and websites, helping users continue work without re-explaining every detail. It records interaction events—not screenshots, screen recordings, microphone input, or system audio—and private browsing is not included.
+
+Computer History is off by default and available to Pro, Business, and Enterprise users. Business and Enterprise admins must grant access before members can opt in. Users can pause Computer History, choose included apps and sites, and inspect or delete timeline items. Note that Computer History is not currently available in the EEA, UK or Switzerland.</description>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:f4c96cd5244b17493eac26baea1a2aa4ad8325c07f8d0dea74a7b23e433d7f29</guid>
+    </item>
+    <item>
+      <title>Restaurant reservations in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>ChatGPT can now help you find available restaurant reservations with OpenTable, Resy, and Yelp.
+
+Ask in the chat and include where and when you’d like to eat, your party size, and any preferences, such as cuisine, budget, dietary needs, or atmosphere. You’ll see available reservation times directly in the response. You can also ask follow-up questions to narrow your options or check a specific restaurant. When you find a time that works, select it to book it.
+
+Rolling out across all ChatGPT plans on mobile, web, and desktop. Reservations are available globally with OpenTable and in the US with Resy and in the US and Canada with Yelp. ChatGPT Work does not include restaurant reservation search.</description>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:be19b9cbeec3a41e4e9ae8451f5682196b4523b575ddcdd671ee2ee14100e7d0</guid>
+    </item>
+    <item>
+      <title>ChatGPT app experience updates</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’ve made it easier to bring documents and saved files into your conversations, find what you need, and pick up where you left off.
+
+Writing, files, and search
+
+Keep your formatting when you paste. On the web, text copied from Google Docs or another ChatGPT conversation keeps its headings, bold text, links, and lists, both while you’re writing and after you send your message.
+
+
+
+Add saved files without uploading them again. Open the composer menu on the web, select Add from library, and choose a file you’ve already saved.
+
+
+
+Select several Library items at once. On the web, drag across multiple files or folders to select them together.
+
+
+
+Find folders, files, and past conversations faster. Search now includes folders and matches conversation titles across web, iOS, and Android. On the web, you can also search within Library to find your saved files.
+
+
+
+Get answers that stay closer to your documents. ChatGPT makes better use of information in attached files when you ask it to summarize a document, find specific details, review material, or draft from a source.
+
+
+
+Use an updated composer when signed out. The signed-out experience on the web now includes a cleaner, unified composer menu.
+
+iOS and Android
+
+Safeguards for background Voice conversations. On mobile, ChatGPT can recognize when a background Voice conversation no longer seems active, check whether you’re still there, and end the session if you don’t respond. You can turn off Background conversations at any time in Settings → Voice.
+
+iOS
+
+Dictate with fewer interruptions. If dictation fails because of a connection issue or timeout, ChatGPT automatically retries once, helping you finish recording without starting over.
+
+
+
+Pick up completed answers without the replay. When you return to a conversation, completed answers now appear without slowly replaying as though they’re still being generated.
+
+Android
+
+Start Voice conversations faster. Improved connection times make it quicker to begin a Voice conversation with ChatGPT.
+
+ChatGPT Work on the web
+
+See your Work usage at a glance. Eligible users on personal plans and ChatGPT Business can see their remaining Work usage in the sidebar. Available credit options depend on your account and workspace permissions.</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:95a0d099b0e0350b9b08df9f73b62256bf4aca48a306f53f2cb90b60b0029e91</guid>
+    </item>
+    <item>
+      <title>Files and Projects in ChatGPT Voice</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>GPT-Live in ChatGPT Voice now supports file uploads and Projects. You can now upload files in a voice conversation and analyze its contents or ask questions. You can also use voice in Projects, referencing recent project chats, sources, and project instructions.
+
+
+Learn more about ChatGPT Voice.</description>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:9b7e27d0bd038f6f7ae3eab24c9465d49ceacd16b41295ca55a13e357a38fee1</guid>
+    </item>
+    <item>
+      <title>Updates to GPT‑5.6 in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Plus and Pro users can now use an updated GPT‑5.6 Sol in ChatGPT with more reliable facts, more focused answers, and a new slider to choose how much thought ChatGPT puts into a response.
+
+GPT‑5.6 Luna will become the default model for Free and Go users this week. Starting next week, they’ll also have unlimited text chats and access to a new Think button for harder questions (subject to abuse guardrails). Limits will still apply for file uploads, images and other tools.
+
+This release applies to the chat experience in ChatGPT. Work and Codex are not changing as part of this release.</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:dc1c97d47bfdb9d89c4fe7523c8252be2623bbb830c08f8322999803da5eb555</guid>
+    </item>
+    <item>
+      <title>Large pastes are now handled as attachments for all plans</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Starting today for ChatGPT Enterprise and Education users, long pastes are handled differently in ChatGPT.
+
+If you paste more than 10k characters into the composer, ChatGPT will automatically convert the content into an attachment instead of inserting it directly into the text field. This keeps the composer cleaner and helps prevent large pastes from consuming your entire context window.
+
+You can still move the content back into the message at any time by clicking on Show in text field to convert the attachment back to a direct paste.
+
+This is already available to users on all other plans.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:9e25e8bbd15fda5bcdbb2c0e51724c453e7ac18cc7f8d5d26422269448dd08b9</guid>
+    </item>
+    <item>
+      <title>New education plugins for students and educators</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Three new plugins for ChatGPT Work and Codex help students and educators work with their own course materials, connected tools, and institution-approved apps.
+
+College Student: Create study guides, practice quizzes, flashcards, and interactive explanations using the materials you’re already studying.
+
+
+
+College Educator: Develop syllabi, course materials, assessments, and interactive learning resources, including content for a learning management system.
+
+
+
+K–12 Educator: Plan lessons, create classroom resources, adapt materials for different learners, and develop interactive visuals.
+
+The plugins are available through ChatGPT Edu and ChatGPT for Teachers district deployments. Schools and institutions control which tools and permissions are available.
+
+Learn more about the new education plugins.</description>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:8fad7c6686b4249433289b4d992a78fbe93caed4b88b52612f6ff89a0abc2ec3</guid>
+    </item>
+    <item>
+      <title>Retiring the DALL·E GPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>On August 30, 2026, we’re retiring the official DALL·E GPT in ChatGPT. We encourage you to download any images you want to keep before then.
+
+To continue creating or editing images, use ChatGPT Images. User-created GPTs with image generation enabled are not affected.
+
+Learn more in Images in ChatGPT.</description>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:52c28f85922b82e1d4ff8fbd2345dd5a71d7b85b2307b3d9b30eb3ebcf0629df</guid>
+    </item>
+    <item>
+      <title>ChatGPT for Academic Researchers</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Research rarely happens alone. ChatGPT for Academic Researchers gives faculty and postdoctoral researchers the ability to apply for 12 months of complimentary access to a dedicated ChatGPT workspace for a small, verified team. Each workspace supports up to five members and includes business data protections and ChatGPT Pro-level usage limits, helping researchers collaborate while keeping team research in its own workspace.
+
+To apply, researchers sign in with an institutional email, verify their affiliation through SheerID, and share a qualifying paper and a short description of their intended research use. Approved applicants complete a $0 checkout with a valid card, create the workspace, and can invite up to four verified collaborators from the same institution. Researchers at existing ChatGPT Edu institutions can still apply, but when approved, follow an institution-managed Edu route instead. The program covers ChatGPT access, not API credits.
+
+Read the full eligibility and program details in ChatGPT for Academic Researchers.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:2cba7231daa601be30a87f07cf94c658057aadf2c65bbecf8b6e285bd3e97a3f</guid>
+    </item>
+    <item>
+      <title>Sign in with ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re beginning to roll out Sign in with ChatGPT across select plugins and partner sites, starting with Airtable, GitLab, HubSpot, Notion, Supabase, and Vercel.
+
+When you connect a supported app from the plugin directory ChatGPT, you can use Sign in with ChatGPT to create or link an account with that service in fewer steps. On participating partner sites, you can also choose ‘Sign in with ChatGPT’ to create or access your account.
+
+This means less time on account setup and an easier way to start working with these tools from ChatGPT and Codex.
+
+When you sign in, only your name, email, and profile picture (if you have one) are shared with the partner. You’ll still separately review and approve the access each plugin receives.</description>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:1e0eaf2f15e990405f9e7db2ae0334842f664cbcd94875bc2859b9763cac8dbf</guid>
+    </item>
+    <item>
+      <title>Health in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re starting to roll out a new health experience in ChatGPT. Logged-in Free, Go, Plus, and Pro users in the United States who are 18 or older can securely connect supported health records and Apple Health data, see a dashboard of their health information, and ask questions grounded in their personal health context.
+
+Available on web and iOS, Health lets you view lab results, medications, activity, sleep, and other health information in one place. You can ask questions directly in ChatGPT or use the Health tab to explore trends, prepare for appointments, understand test results, track wellness goals, and think through questions to discuss with a healthcare professional. The experience builds on feedback from early testers and gives you control over what you connect and when ChatGPT can use it.
+
+Health is built with layered privacy and security safeguards. Connected medical records and Apple Health information, and conversations that use it, are not used to train our foundation models or target ads.
+
+ChatGPT Health is designed to support, not replace, medical care and is not intended for diagnosis or treatment.
+
+Learn more in our help article Health in ChatGPT and our blog Launching Health in ChatGPT.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:bddc45a66ded900d8b4d710be1f10525f6f2f4271d770f28536a0aef807d4aa6</guid>
+    </item>
+    <item>
+      <title>ChatGPT Voice in Work and Codex on desktop</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>ChatGPT Voice is now available in Work and Codex in the ChatGPT desktop app. Start a new task in Voice to speak naturally, interrupt, and ask Voice to start or coordinate work using the tools and permissions available to the selected experience.
+
+Learn more about ChatGPT Voice and pricing and limits.</description>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:fa6ee18f17073b6f3ddd55ec8db3231879f663629d13799f3560d29123db0740</guid>
+    </item>
+    <item>
+      <title>ChatGPT desktop app experience updates</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’ve updated the ChatGPT desktop app to make it easier to choose between Chat and Work, find your conversations and Projects, and continue Work across devices. These updates are now live for all plans on macOS and Windows.
+
+macOS and Windows
+
+A clearer desktop layout: A global switcher lets you choose between ChatGPT and Codex. In ChatGPT, choose Chat for quick questions and conversational help, or Work to complete tasks end to end.
+
+
+
+Unified Recents: Chat and Work conversations now appear together in Recents, where you can sort, filter, and pin them.
+
+
+
+Projects in the desktop app: Your existing ChatGPT Projects now appear in the app. You can start a Chat conversation inside a Project or begin a Work thread using Project context.
+
+
+
+Continue Work across devices: Cloud Work conversations now sync across web, mobile, and desktop, so you can start on one surface and continue on another. Local conversations stay on your computer.
+
+
+
+Codex remains unchanged: As part of this update, Codex remains a separate view, and its workflows and history are unchanged. Quick Chats remain available for fast conversations.</description>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:05ad8c0e73012dd25c1de34e0409c27e91017ae5b91a2db6b2cc632be6757179</guid>
+    </item>
+    <item>
+      <title>Increased custom instructions limit</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re increasing the character limit for custom instructions in ChatGPT. Plus, Pro, Enterprise, Business, and Education users can now save up to 5,000 characters, up from 1,500, giving them more room to customize ChatGPT’s response style and behavior.</description>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:67bf364b44bec9342394d80653192015e113919b2131b50799e63095839dd9c9</guid>
+    </item>
+    <item>
+      <title>Search across chats, projects, and files is now supercharged.</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’ve rolled out a new way to search your chats, projects, images, and documents in ChatGPT on web, iOS, and Android. You can quickly find past chats, projects, images, and documents from one place.
+
+Start searching from the ChatGPT sidebar to find what you need across everything, or use filters to narrow results by content type. Select a result to open the chat, project, or file directly in ChatGPT.
+
+Available on all ChatGPT plans globally.</description>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:f11953d9acb0729182663fdc4e53255699a19a41bc45cfadf110053d5cc5de3b</guid>
+    </item>
+    <item>
+      <title>ChatGPT returns to WhatsApp in the EEA</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>ChatGPT is available again on WhatsApp in the European Economic Area (EEA). You can get started without a ChatGPT account by messaging the verified 1-800-CHATGPT contact at +1-800-242-8478.
+
+On WhatsApp, you can message ChatGPT, upload images, send voice notes, create images, and use ChatGPT in many languages. Linking your ChatGPT account is optional and provides higher usage limits.
+
+Availability is based on the country code associated with your WhatsApp number and may roll out gradually. Usage limits apply.
+
+ChatGPT is also available on Kakao in South Korea and Viber in supported markets.</description>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:bb0c60b8341cb96fe16a68dd900fe990e281263ddc136cf0431d4fa906c530ba</guid>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Work</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>ChatGPT Work is an agent for longer, more involved tasks. It can research and analyze information, work across connected apps and files, and create finished documents, spreadsheets, presentations, reports, and Sites. You can follow its progress, answer questions, change direction, and approve important actions as it works.
+
+Work can also keep projects moving through Scheduled Tasks that run once, repeat on a schedule or trigger, or monitor for changes.
+
+On web and mobile, Work is rolling out to paid plans except Free and Go. Pro, Pro Lite, Enterprise, and Edu users receive access first; Plus and Business users will follow over the coming days. Work is available in all supported regions.
+
+On web and mobile, Enterprise and Edu workspaces have a two-week preview period. Work is off by default during the preview, and admins can opt out before it turns on automatically at the end of the preview.
+
+We’re also replacing the App Directory with the Plugin Directory. Existing app connections are unaffected. Plugins can package skills, apps, and app templates for specific workflows, and are available from ChatGPT on web and desktop, including Work and Codex.
+
+Learn more about ChatGPT Work and Codex.
+
+Learn more about plugins and the new plugin directory.</description>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:c7d64bc556e07091496bf0d596c0527dd993ff6c22e9c01ed16580ff0b71352b</guid>
+    </item>
+    <item>
+      <title>Skills are now generally available</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Enterprise and Edu users can find skills under Plugins in the sidebar, on the Skills tab in the Plugin Directory.</description>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:592cec598b119bc46e95c89ccdb2501dad8adda1e3eae7c3121d6f867e2f2fec</guid>
+    </item>
+    <item>
+      <title>The new ChatGPT desktop app brings Chat, Work, and Codex together</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>The new ChatGPT desktop app is available globally for macOS and Windows. It combines Chat for questions and conversation, Work for research and finished deliverables, and Codex for software development in one app.
+
+On desktop, Work can use local files and desktop apps with your permission. The built-in browser lets ChatGPT gather information from websites and work with supported web-based tools and files. Codex also adds inline editing within diffs, pull-request review in the side panel, faster computer use, and support for multiple repositories in one project.
+
+If you already use the Codex app, update it as usual to move to the new ChatGPT desktop app. If you use the previous ChatGPT desktop app, follow the prompt in the app to download the new version. The previous app may remain installed as ChatGPT Classic. ChatGPT Classic continues to receive model updates, bug fixes, security patches, and support for its existing Enterprise capabilities, while new agent features such as Work and Codex are available in the new app.
+
+Learn more about moving to the new ChatGPT desktop app.</description>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:800a2e23364beb771ffc7f1c684bb3105a0eaa79f1667615ce26c9c8623d60b3</guid>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Sites in public beta</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>ChatGPT Sites lets you turn your work or ideas into an interactive website or lightweight app without leaving ChatGPT. You can create dashboards, project trackers, launch calendars, prototypes, internal portals, and reports, then preview and refine the result with ChatGPT before sharing it.
+
+Business and Enterprise customers already have access to Sites. Starting today, they can also publish Sites publicly and share them with anyone through a URL, expanding Sites beyond people in their workspace.
+
+To create a Site, start in ChatGPT Work on the web or in Work or Codex in the ChatGPT desktop app. Describe what you want to build, add any relevant content, files, data, links, or constraints, and review the private preview before publishing.
+
+In Enterprise workspaces, public publishing is off by default and must be enabled by an admin. Sites is also rolling out in public beta to Pro, Pro Lite, and Edu users, with Plus users following over the coming days. Sites is not available on Free or Go plans. Public publishing and the expanded beta rollout are not available in the EEA, Switzerland, or the United Kingdom at launch.
+
+Learn more about creating and managing ChatGPT Sites.</description>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:1bc23301fedb854c1473bee55aa91fe7d81782c03e246e4ba879f0e67067004b</guid>
+    </item>
+    <item>
+      <title>Retiring group chats in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Beginning July 9, users on web, iOS, and Android will no longer be able to create new group chats, turn existing conversations into group chats, or join a group chat through an invite link.
+
+Existing group chats will remain available and can continue to be used for now. When an existing group chat becomes read-only, users will retain access to the messages, files, and images already shared there. Individual ChatGPT conversations are unaffected.</description>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:efbdee420380090d0d986975dbdf361d66ad88bf4c17b07db41740e0fcca48df</guid>
+    </item>
+    <item>
+      <title>Retiring Atlas</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re deprecating Atlas as we bring browser-based agentic capabilities into ChatGPT and Codex. Atlas is scheduled to stop working on August 9, 2026.
+
+We want to make this transition as easy as possible. Before then, move any Atlas data you want to keep. Atlas browser data, including bookmarks, open tabs, and browser history, will not transfer automatically. You can export your cookies and passwords to the ChatGPT desktop app and your bookmarks to Chrome. Be sure to save any important pages or URLs from your open tabs and browser history before August 9.
+
+Your ChatGPT conversation history is separate and will remain available in ChatGPT, subject to your plan, workspace settings, and account access.
+
+We’re building on what we learned from Atlas to bring a more capable browser experience to ChatGPT, including multiple tabs, downloads, improved navigation, and account login support where available. For deeper browser-based agentic work, try the ChatGPT desktop app. For help while browsing in Chrome, try the ChatGPT Chrome extension or sidebar, where available.
+
+You can learn more about moving off Atlas in our Help Center article.</description>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:68d949bfce142d6e7570ca06db9aa36771da5a86b88acf5ab5cc79aac0f50267</guid>
+    </item>
+    <item>
+      <title>Introducing GPT-Live-1 in ChatGPT Voice</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re rolling out a new ChatGPT Voice experience. ChatGPT Voice is now powered by GPT-Live-1 for paid users and GPT-Live-1 mini for Free users. Both models can listen and speak at the same time, making turn-taking and interruptions feel more natural.
+
+GPT-Live-1 works inside a ChatGPT chat, with spoken responses appearing alongside streamed text. It can use web search and memory, show visual results through supported widgets, and work with text and images in the same conversation.
+
+GPT-Live-1 is rolling out across consumer plans, including Free, on chatgpt.com and the ChatGPT iOS and Android apps in supported regions. It is not available in ChatGPT Business, Enterprise, or Edu workspaces at launch. GPT-Live-1 does not support video or screen sharing at this time; eligible subscribers can continue using those capabilities with Advanced Voice Mode.</description>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:f150f8cbba37ee735acbb98e3bff36c22f291697c254befce058c930db9078d2</guid>
+    </item>
+    <item>
+      <title>GPT-5.5 Instant Mini in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re rolling out GPT-5.5 Instant Mini in ChatGPT. It replaces GPT-5.3 Instant Mini as the fallback model users reach after hitting their GPT-5.5 Instant or Auto rate limits. Because it serves as a fallback, it won’t appear in the model picker. This update does not affect the API or Codex.
+
+Compared with GPT-5.3 Instant Mini, GPT-5.5 Instant Mini better tracks evolving user intent, calibrates tone, and avoids repetitive or overly structured responses. Testing also showed stronger personalization and fewer factual issues.</description>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:41a7def215f0072d4d92d40185457fa2723f68d82cf7b7621d48a251423c973d</guid>
+    </item>
+    <item>
+      <title>ChatGPT for PowerPoint is now generally available</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>ChatGPT for PowerPoint is now generally available globally. From a sidebar in Microsoft PowerPoint, you can create new slides and decks, revise existing presentations, ask questions about a deck’s story and structure, and use Skills and apps to work with repeatable workflows and connected sources. Slides remain editable in PowerPoint, although advanced edits and template matching may still require review.
+
+The add-in is available to Free, Go, Plus, Pro, Business, Enterprise, ChatGPT Edu, and K-12 users, subject to plan limits and workspace settings. Install it from Microsoft Marketplace, sign in with your eligible ChatGPT account, and review important claims, numbers, and slide changes before sharing. Learn more about ChatGPT for PowerPoint.</description>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:1efb2c13b4c9794a117c0c365c6757b37aa83966fe534b1ced9b6049c2eff250</guid>
+    </item>
+    <item>
+      <title>Personal finance in ChatGPT expands to Plus users and Android</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>The personal finance experience in ChatGPT is rolling out to Plus users in the U.S. on web and iOS. It is also now available on Android for Pro and Plus users in the U.S.
+
+Eligible users can securely connect supported financial accounts, view a dashboard of their finances, and ask ChatGPT questions grounded in their financial context</description>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:8e96a3421ebe2fda10b72e633bb3e93cec77a1ce41608885ecf5d7bca21f2218</guid>
+    </item>
+    <item>
+      <title>Improved dictation in ChatGPT</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re rolling out a new speech-to-text model for dictation in ChatGPT across all plans. This is a behind-the-scenes update, so there are no changes to how you use dictation.
+
+The update improves transcription accuracy across languages and accents, including when multilingual speakers mix or switch between languages. Evaluations showed gains in Japanese, Korean, Chinese, Urdu, Vietnamese, accented English, and long-form Spanish, French, Italian, and Portuguese.
+
+Dictation is also more robust in noisy public spaces and workplace environments, with quiet or whispered speech, and when transcribing combinations of letters and numbers.
+
+In our ChatGPT dictation evaluations, word error rate—a standard measure of transcription accuracy—was at least 10% lower for top languages tested than with the previous production model.</description>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:aca43c3ee2db1f64c58c481c69745a5d57be588f588513178d0424fe5b39bdb8</guid>
+    </item>
+    <item>
+      <title>Retiring GPT-4.5</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>As of June 26, 2026, GPT-4.5 is no longer available in ChatGPT, including for custom GPTs. Existing conversations that used GPT-4.5 can continue with GPT-5.5.
+
+This retirement was previously announced on May 28, 2026. It applies to ChatGPT only; there are no changes to the API.</description>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:dc18a5f8bf96b669ae90602be67df3b55ecced5106a912b0d6e9115a37ff215a</guid>
+    </item>
+    <item>
+      <title>Codex Remote GA and DigitalOcean plugin</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>Codex Remote is now generally available on all ChatGPT plans. From the ChatGPT mobile app, users can start or continue work on a connected Mac or Windows host, review progress, and approve actions from their phone. Remote Control now uses authenticated one-to-one QR pairing between each supported mobile device and each host. Connections used since June 8 remain paired; older inactive connections need to pair again. Signing out turns off Remote Control without removing existing pairings.
+
+The new DigitalOcean Droplet Workspace plugin lets Codex provision a DigitalOcean Droplet, configure SSH access, and connect it to the Codex app as a remote workspace. Users should update the ChatGPT mobile app and Codex app to the latest versions before connecting. Learn more about using Codex with a ChatGPT plan.</description>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:8c8964737e28a3ce355ec689c9b484ca452f1d00202d4f8372d6d26015a37f77</guid>
+    </item>
+    <item>
+      <title>GPT-5.5 Instant Update</title>
+      <link>https://help.openai.com/en/articles/6825453-chatgpt-release-notes</link>
+      <description>We’re updating GPT-5.5 Instant, our most-used model in ChatGPT, to improve conversational quality—especially when users are making a decision, asking for advice, planning something, researching options, or shopping.
+
+The model is better at identifying the underlying goal behind a question and carrying context across multiple turns. It also follows complex instructions more reliably: when a request includes several constraints or requirements, responses are more likely to address all of them and clearly explain why a recommendation is a good fit.
+
+When users add constraints, clarify what they mean, or push back on an answer, the model should adapt more effectively instead of repeating its original approach.
+
+Shopping and local business queries should also feel more useful. The model makes better use of location context to surface relevant nearby options and can bring together product recommendations, business information, and images more coherently when those elements are helpful.
+
+Overall, responses should feel more tasteful and cohesive. Formatting is less templated and more intentionally designed, with greater creativity alongside better restraint.</description>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">chatgpt-release-notes:07de112b9889b4a5342d7911cc700b03980dfd9e4b05cfdb76bb86e88167853c</guid>
+    </item>
+  </channel>
+</rss>
