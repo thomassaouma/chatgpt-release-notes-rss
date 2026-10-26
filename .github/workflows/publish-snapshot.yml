@@ -1,0 +1,30 @@
+name: Publish verified RSS snapshot
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['public/**', '.github/workflows/publish-snapshot.yml']
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: rss-pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate snapshot
+        run: python -c "import xml.etree.ElementTree as E; r=E.parse('public/rss.xml'); assert len(r.findall('./channel/item')) >= 5"
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - uses: actions/deploy-pages@v4
+        id: deployment
