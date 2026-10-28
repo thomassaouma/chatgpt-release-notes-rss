@@ -1,37 +1,12 @@
-name: Update ChatGPT release notes RSS
+name: Update ChatGPT release notes RSS (stopped)
+# Stopped at the repository owner's request. No scheduled or push triggers.
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-  schedule:
-    - cron: '17 */6 * * *'
 permissions:
   contents: read
-  pages: write
-  id-token: write
-concurrency:
-  group: rss-pages
-  cancel-in-progress: false
 jobs:
-  publish:
+  stopped:
+    if: ${{ false }}
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-      - run: python -m unittest discover -s tests
-      - name: Download official release notes
-        run: curl --fail --show-error --silent --location --max-time 60 https://help.openai.com/en/articles/6825453-chatgpt-release-notes --output source.html
-      - run: python generate.py --input source.html
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
-      - uses: actions/deploy-pages@v4
-        id: deployment
-
+      - run: echo 'RSS automation is stopped.'
